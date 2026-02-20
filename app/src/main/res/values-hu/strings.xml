@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PhotoDiary</string>
+    <string name="default_task">Névtelen feladat</string>
+    <string name="previous_week">Előző hét</string>
+    <string name="next_week">Következő hét</string>
+    <string name="no_tasks">Nincs teendő</string>
+    <string name="delete">Törlés</string>
+    <string name="new_task">Új teendő</string>
+    <string name="save">Mentés</string>
+    <string name="cancel">Mégse</string>
+    <string name="task_dialog_title">Teendő szerkesztése</string>
+    <string name="task_label">Feladat</string>
+    <string name="note_label">Jegyzet</string>
+    <string name="choose_time">Válassz időt: %1$s</string>
+    <string name="choose_date">Válassz dátumot: %1$s</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PhotoDiary</string>
+    <string name="default_task">Untitled task</string>
+    <string name="previous_week">Previous week</string>
+    <string name="next_week">Next week</string>
+    <string name="no_tasks">No tasks</string>
+    <string name="delete">Delete</string>
+    <string name="new_task">New Task</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="task_dialog_title">New Task</string>
+    <string name="task_label">Task</string>
+    <string name="note_label">Note</string>
+    <string name="choose_time">Choose time: %1$s</string>
+    <string name="choose_date">Choose date: %1$s</string>
+</resources>
